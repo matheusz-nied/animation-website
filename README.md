@@ -9,5 +9,6 @@
 - **CSS Animation:** Implementação da animação de bolhas.
 
 ## Visualização do Projeto
+[Link Projeto](https://animation-website-ruby.vercel.app/)
 
 ![Screenshot projeto](/images/bubble-screenshot.png)
